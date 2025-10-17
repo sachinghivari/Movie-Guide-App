@@ -9,7 +9,7 @@ let movieContainer = document.querySelector(".movie-container");
 const getMovieInfo = async (movie) =>{
     try {
          const myApiKey = "165da957";
-    const url = `http://www.omdbapi.com/?apikey=${myApiKey}&t=${movie}`;
+    const url = `https://www.omdbapi.com/?apikey=${myApiKey}&t=${movie}`;
 
 
     const res = await fetch(url);
