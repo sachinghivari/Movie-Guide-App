@@ -33,5 +33,5 @@ A simple and responsive web application that allows users to search for movies a
 3.Open the index.html file in your browser.
 
 ## Screenshot ##
-![Movie Guide Screenshot](./screenshot.png)
+![Movie Guide Screenshot](./screenshot .png)
 
