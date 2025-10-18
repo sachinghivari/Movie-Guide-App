@@ -28,8 +28,10 @@ A simple and responsive web application that allows users to search for movies a
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/movie-guide-app.git
+   
 2.Open the folder:
  cd movie-guide-app
+ 
 3.Open the index.html file in your browser.
 
 API Setup
