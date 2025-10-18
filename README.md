@@ -41,5 +41,5 @@ You’ll need an OMDb API key.
 2.Replace your key in the JavaScript file:
 const apiKey = "YOUR_OMDB_API_KEY";
 
-![Movie Guide Screenshot](./screenshot.png)
+![Movie Guide Screenshot](screenshot.png)
 
